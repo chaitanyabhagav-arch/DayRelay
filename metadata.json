@@ -1,0 +1,6 @@
+{
+  "name": "DayRelay",
+  "description": "Crisp daylight daily planner for tasks, timed events, loud alarms, habits, notes, and instant laptop reminder pushes via ntfy or webhooks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
